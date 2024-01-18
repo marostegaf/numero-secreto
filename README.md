@@ -4,4 +4,4 @@ Após acertar vai dizer com quantas tentativas você precisou e você pode inica
 Quando esgotar os números secretos resetará, podendo repetir os números!
 
 Para quem quiser jogar o jogo está aqui o link:
-🔗 https://secreto-xi.vercel.app/
+🔗 https://numero-secreto-beryl-nine.vercel.app/
