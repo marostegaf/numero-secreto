@@ -35,7 +35,6 @@ body::before {
     border-radius: 24px;
     border: 1px solid #1875E8;
     box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);
-    background-image: url("img/Ruido.png");
     background-size: 100% 100%;
     position: relative;
 }
@@ -44,6 +43,7 @@ body::before {
 .container__conteudo {
     display: flex;
     align-items: center;
+    justify-content: center;
     position: absolute;
     bottom: 0;
 }
@@ -92,7 +92,7 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
+    font-size: 55px;
     padding-bottom: 3rem;
 }
 
@@ -102,12 +102,16 @@ button {
 }
 
 .texto__paragrafo {
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 400;
 }
 
 button:disabled {
     background-color: gray;
+}
+
+button {
+    cursor: pointer;
 }
 
 @media screen and (max-width: 1250px) {
