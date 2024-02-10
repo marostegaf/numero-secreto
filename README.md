@@ -8,6 +8,6 @@ Quando esgotar os números secretos resetará, podendo repetir os números!
 - HTML
 - CSS
 - JavaScript
-- 
+  
 ## 💻 Projeto
 Disponível em: 🔗[Número Secreto](https://numero-secreto-beryl-nine.vercel.app/)
